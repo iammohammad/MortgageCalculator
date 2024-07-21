@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9567265-5b1e-4fbe-ba6d-16aafecad19e" name="Changes" comment="" />
+    <list default="true" id="f9567265-5b1e-4fbe-ba6d-16aafecad19e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MortgageCalculator/out/production/MortgageCalculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/MortgageCalculator/out/production/MortgageCalculator/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,9 +25,25 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/learning/JAVA/learning projects/MortgageCalculator"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="MortgageCalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="MortgageCalculator" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1721223861014</updated>
       <workItem from="1721223862323" duration="292000" />
+      <workItem from="1721551440959" duration="45000" />
     </task>
     <servers />
   </component>
